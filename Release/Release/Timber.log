@@ -1,0 +1,18 @@
+﻿  Timber.cpp
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(393,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(471,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(475,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(500,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(503,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(526,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(530,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(554,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(558,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(583,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(587,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(621,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 123 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Timber.vcxproj -> C:\Users\PauloCosta\source\repos\Timber\Release\Timber.exe

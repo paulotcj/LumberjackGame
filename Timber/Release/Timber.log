@@ -1,0 +1,15 @@
+﻿  Timber.cpp
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(97,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(369,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(441,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(445,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(475,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(495,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(498,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PauloCosta\source\repos\Timber\Timber\Timber.cpp(544,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 123 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Timber.vcxproj -> C:\Users\PauloCosta\source\repos\Timber\Release\Timber.exe
