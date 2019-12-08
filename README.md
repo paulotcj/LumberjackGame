@@ -13,22 +13,22 @@ Building the game with Visual Studio (2019)
 - With the Solution open, right-click on Timber, and then click on Properties
 - On Configuration Drowndown menu select 'All configurations'
 - Selecting 'C/C++' -> 'General' -> on 'Additional Include Directories' field add the following directory 'C:\Program Files (x86)\SFML\include\'
-	<p>*Note: If 'C:\Program Files (x86)\SFML' is not your SFML installation you should adjust it accordingly to your settings.</p>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;*Note: If 'C:\Program Files (x86)\SFML' is not your SFML installation you should adjust it accordingly to your settings.</p>
 
 - Selecting 'Linker' -> 'General' -> on 'Additional Include Directories' field add the following directory 'C:\Program Files (x86)\SFML\lib'
-	<p>*Note: If 'C:\Program Files (x86)\SFML' is not your SFML installation you should adjust it accordingly to your settings.</p>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;*Note: If 'C:\Program Files (x86)\SFML' is not your SFML installation you should adjust it accordingly to your settings.</p>
 
 - On Configuration Drowndown menu select 'Debug'
 - Then go to 'Linker' -> 'General' -> 'Input' -> on 'Aditional Dependencies' field append the following string 
-	<p>'sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-system-d.lib;sfml-network-d.lib;sfml-audio-d.lib;'</p>
-	<p>The working copy ideally should look like this:</p>
-	<p>'sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-system-d.lib;sfml-network-d.lib;sfml-audio-d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)'</p>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;'sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-system-d.lib;sfml-network-d.lib;sfml-audio-d.lib;'</p>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;The working copy ideally should look like this:</p>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;'sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-system-d.lib;sfml-network-d.lib;sfml-audio-d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)'</p>
 
 - On Configuration Drowndown menu select 'Release'
 - Then go to 'Linker' -> 'General' -> 'Input' -> on 'Aditional Dependencies' field append the following string 
-	<p>'sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-network.lib;sfml-audio.lib;'</p>
-	<p>The working copy ideally should look like this:</p>
-	<p>'sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-network.lib;sfml-audio.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)'</p>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;'sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-network.lib;sfml-audio.lib;'</p>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;The working copy ideally should look like this:</p>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;'sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-network.lib;sfml-audio.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)'</p>
 
 
 
