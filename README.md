@@ -9,6 +9,7 @@ and "Beginning C++ Game Programming" both by John Horton.
 
 
 Building the game with Visual Studio (2019)
+--------
 -With the Solution open, right-click on Timber, and then click on Properties
 -On Configuration Drowndown menu select 'All configurations'
 -Selecting 'C/C++' -> 'General' -> on 'Additional Include Directories' field add the following directory 'C:\Program Files (x86)\SFML\include\'
